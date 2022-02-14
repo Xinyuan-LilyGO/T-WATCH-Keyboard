@@ -31,4 +31,4 @@
 
 5. **Shift + B**: turn on/off screen backlight
 
-![image](./image/image2.jpg)
+![image](./image/image3.jpg)

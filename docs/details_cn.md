@@ -2,7 +2,9 @@
 
 ### 中文 | [English](../README.md) 
 
-<h2 align = "left">Use the tutorial ⚡:</h2>
+![image](../image/image1.jpg)
+
+<h2 align = "left">程序使用教程 ⚡:</h2>
 
 1. **Help**: 显示可支持函数功能
 
@@ -16,20 +18,19 @@
 
 5. **Shift + B**: 开关屏幕背光
 
-![image](../image/image1.jpg)
 
-![image](../image/image2.jpg)
+![image](../image/image3.jpg)
 
-<h2 align = "left">Quick start ⚡:</h2>
+<h2 align = "left">源代码烧录 ⚡:</h2>
 
-1. **Download** dependency library
+1. **下载** 依赖库
      - [TTGO_TWatch_Library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library)
      
-2. **Import** dependency library
+2. **导入** 上述依赖库
 
-3. **Download** this github
+3. **下载** 当前GitHub代码
 
-4. **Upload** code
+4. **上传** 程序
 
 
 

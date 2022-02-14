@@ -8,7 +8,7 @@
 
 1. **Help**: 显示可支持函数功能
 
-2. **Scan**: 运行WiFi测试功能
+2. **Scan**: 运行WiFi扫描功能
 
 3. **Connect Wi-Fi**: 连接Wi-Fi
      - [Wi-Fi account] 

@@ -16,3 +16,19 @@
 
 ![image](./image/image1.jpg)
 
+
+<h2 align = "left">Use the tutorial ⚡:</h2>
+
+1. **Help**: Display executable function
+
+2. **Scan**: Run Wi-Fi function
+
+3. **Connect Wi-Fi** Connect to local Wi-Fi 
+     - [Wi-Fi account] 
+     - [Wi-Fi password]
+
+4. **Shift + C**: clear text screen
+
+5. **Shift + B**: turn on/off screen backlight
+
+![image](./image/image2.jpg)
